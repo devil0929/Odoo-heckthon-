@@ -1,0 +1,2 @@
+# Odoo-heckthon-
+Core inventory
