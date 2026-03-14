@@ -1,2 +1,2 @@
-# Odoo-heckthon-
+# Odoo-hackthon-
 Core inventory
